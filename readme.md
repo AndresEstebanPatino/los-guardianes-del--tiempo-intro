@@ -15,7 +15,7 @@ Pero cuidado, hay rumores de que uno de vosotros podría ser un saboteador, envi
 
 <h3> La máquina del tiempo (Década 1970) </h3>
 
-La primera parada es en los años 70, donde se inventó el primer microprocesador. La máquina del tiempo está lista para ser activada, pero necesita un código específico para funcionar. Sin esta activación, no podréis continuar vuestro viaje. 
+La primera parada es en los años 70, donde se inventó el primer microprocesador, pero hay un pequeño problema: ¡el microprocesador ha decidido tomar un descanso para escuchar discos de vinilo y bailar disco! Parece que se ha dejado influenciar demasiado por la época. Para convencerlo de volver al trabajo, deberéis viajar allí y  demostrar que entendéis la cultura de los 70 mejor que nadie... La máquina del tiempo está lista para ser activada, pero necesita un código específico para funcionar. Sin esta activación, no podréis continuar vuestro viaje. 
 
 Prueba: 
 
