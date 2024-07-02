@@ -18,6 +18,12 @@ La máquina del tiempo (Década 1970)
 La primera parada es en los años 70, donde se inventó el primer microprocesador. La máquina del tiempo está lista para ser activada, pero necesita un código específico para funcionar. Sin esta activación, no podréis continuar vuestro viaje. 
 
 Prueba: Resolver el acertijo para activar la máquina del tiempo.
-Recursos: Rompecabezas.
+Recursos: 
+
+<ul>
+    <li>Rompecabezas.
 Para cada integrante del grupo con una parte del acertijo que será un código hexadecimal. 
 El acertijo resuelto se deberá informar a los directores guardianes para que lo ingresen y puedan encender la máquina del tiempo.
+    
+</ul>
+
