@@ -27,7 +27,7 @@ Recursos:
 
 <ul>
     <li>Rompecabezas.
-Para cada integrante del grupo con una parte del acertijo que será un código hexadecimal. 
+Para cada integrante del grupo con una parte del acertijo. 
 El acertijo resuelto se deberá informar a los directores guardianes para que lo ingresen y puedan encender la máquina del tiempo.
     
 </ul>
